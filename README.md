@@ -12,7 +12,6 @@
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   
-  <a href="https://www.w3schools.com/whatis/whatis_vue.asp" target="_blank"> <img src="
-            <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css)"
-          alt="vue" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/whatis/whatis_vue.asp" target="_blank">
+            <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css)" alt="vue" width="40" height="40"/> </a>
     </p>
