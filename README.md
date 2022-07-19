@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on software applications
 - 💬 All I know is Javascript, Front-end stuff
 - 📫 You can reach me via mail: oguejioforrichard@gmail.com
-- ⚡ My hobbies are reading, playing chess and running
+- ⚡ My hobbies are reading, writing and playing chess
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
